@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Wijmap</title>
+    <link href="External/wijmaps.css" rel="stylesheet" type="text/css" />
+    <link href="External/jquery-ui.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="External/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="External/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="External/jquery-ui-1.10.1.custom.min.js"></script>
+    <script type="text/javascript" src="External/raphael.js"></script>
+    
+    <script type="text/javascript" src="drawing.js"></script>
+    <script type="text/javascript" src="converter.js"></script>
+    <script type="text/javascript" src="wijmapTools.js"></script>
+    <script type="text/javascript" src="wijmapVectorLayer.js"></script>
+    <script type="text/javascript" src="mapSource.js"></script>
+    <script type="text/javascript" src="utilities.js"></script>
+    <script type="text/javascript" src="wijmap.js"></script>
+</head>
+<body>
+    <div style="margin:auto; width:800px; height:700px;">
+        <br /><br /><br /><br /><br />
+    <div id="maps" class="maps" tabindex="-1">
+    </div>
+        </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#maps").wijmaps({ "zoom": 7, "source": "bingMapsHybridSource", "center": {x:116.3 , y:39.9} });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+C:\Users\lieyushi\Documents\Project\MyWijmap\MyWijmap\bin\MyWijmap.dll
+C:\Users\lieyushi\Documents\Project\MyWijmap\MyWijmap\bin\MyWijmap.pdb
+C:\Users\lieyushi\Documents\Project\MyWijmap\MyWijmap\obj\Debug\MyWijmap.csprojResolveAssemblyReference.cache
+C:\Users\lieyushi\Documents\Project\MyWijmap\MyWijmap\obj\Debug\MyWijmap.dll
+C:\Users\lieyushi\Documents\Project\MyWijmap\MyWijmap\obj\Debug\MyWijmap.pdb
+C:\Users\lieyushi\Documents\Project\MyWijmap\MyWijmap\bin\EntityFramework.dll
+C:\Users\lieyushi\Documents\Project\MyWijmap\MyWijmap\bin\EntityFramework.xml
+E:\实验\VS\MyWijmap\MyWijmap\obj\Debug\MyWijmap.csprojResolveAssemblyReference.cache
+E:\实验\VS\MyWijmap\MyWijmap\obj\Debug\MyWijmap.dll
+E:\实验\VS\MyWijmap\MyWijmap\obj\Debug\MyWijmap.pdb
+G:\实验\VS\MyWijmap\MyWijmap\obj\Debug\MyWijmap.csprojResolveAssemblyReference.cache
+G:\实验\VS\MyWijmap\MyWijmap\obj\Debug\MyWijmap.dll
+G:\实验\VS\MyWijmap\MyWijmap\obj\Debug\MyWijmap.pdb
+G:\实验\VS\MyWijmap\MyWijmap\bin\MyWijmap.dll.config
+G:\实验\VS\MyWijmap\MyWijmap\bin\MyWijmap.dll
+G:\实验\VS\MyWijmap\MyWijmap\bin\MyWijmap.pdb
